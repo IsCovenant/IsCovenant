@@ -10,7 +10,7 @@ Blockchain (Ethereum, Solidity), Desarrollo Full Stack (Python, CSS Javascriot, 
 - Máster en Desarrollo Full Stack, CONQUERBLOCKS, 12-2-2023 - 12-2-2025
 
 🌐 **Conéctame:**
-- [LinkedIn] https://www.linkedin.com/in/sergi-borsot-82b920264/
+- LinkedIn https://www.linkedin.com/in/sergi-borsot-82b920264/
 
 🎯 **Objetivos Profesionales:**
 Busco colaborar en proyectos emocionantes que desafíen mis habilidades y permitan seguir creciendo como desarrollador. Apasionado por explorar nuevas tecnologías y contribuir al avance de la comunidad de desarrollo.
